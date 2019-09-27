@@ -5,7 +5,7 @@ if nargin < 6
     close all
 end
 if nargin < 5
-    c = 0.9 * D ;
+    c = 0.5 * D ;
 end
 
 m = 1;
